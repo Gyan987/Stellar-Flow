@@ -201,7 +201,7 @@ cd contracts && cargo test   # contract tests
 3. Set all env vars from `.env.local.example` in Vercel → Settings → Environment Variables.
    - `NEXTAUTH_URL` must be `https://flowms.vercel.app` exactly.
 4. Enable **Web Analytics** on the Vercel project (optional but recommended).
-5. Deploy and verify: GitHub sign-in, wallet connect, instruction run, audit trail load.
+5. Deploy and verify: GitHub sign-in, wallet connect, instruction run, audit trail load
 
 ---
 
