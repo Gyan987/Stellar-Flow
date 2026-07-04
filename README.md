@@ -1,5 +1,6 @@
 # flowms
 
+
 **Natural-language instructions, executed by agents, logged on-chain.**
 
 Give flowms a plain-English instruction — for example, *"Summarize my GitHub notifications"* — and a three-agent pipeline interprets it, fetches the data, acts on it, and writes an immutable audit entry to a Soroban smart contract on Stellar testnet. Every step is verifiable: the UI shows live agent activity, and the Audit Trail view reads the full on-chain history from the workspace sidebar.
