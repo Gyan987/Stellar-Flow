@@ -1,5 +1,5 @@
 #![no_std]
-
+ 
 use soroban_sdk::{
     contract, contracterror, contractimpl, contracttype, BytesN, Env, Symbol, Vec,
 };
