@@ -1,6 +1,6 @@
 # Contributing to flowms
 
-Thank you for reviewing or contributing to flowms. This document explains how the repository is organized so you can navigate the codebase quickly.
+Thank you for reviewing or contributing to flowms. This document explains how the repository is organized so you can navigate the codebase quickly. 
 
 ## Project structure
 
