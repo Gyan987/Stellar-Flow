@@ -4,6 +4,7 @@ import { getServerSession } from "next-auth";
 import type { NextRequest } from "next/server";
 import { authOptions } from "@/lib/auth";
 
+
 export async function getSession() {
   return getServerSession(authOptions);
 }
