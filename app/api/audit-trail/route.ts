@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { captureMonitoringException } from "@/lib/monitoring/sentry";
+
 import {
   AuditTrailQuerySchema,
   fetchAuditTrailPage,
